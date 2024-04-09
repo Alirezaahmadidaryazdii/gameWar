@@ -1,0 +1,17 @@
+D:\projectnemone\project c#\gameWar\gameWar\bin\Debug\net8.0-windows\gameWar.exe
+D:\projectnemone\project c#\gameWar\gameWar\bin\Debug\net8.0-windows\gameWar.deps.json
+D:\projectnemone\project c#\gameWar\gameWar\bin\Debug\net8.0-windows\gameWar.runtimeconfig.json
+D:\projectnemone\project c#\gameWar\gameWar\bin\Debug\net8.0-windows\gameWar.dll
+D:\projectnemone\project c#\gameWar\gameWar\bin\Debug\net8.0-windows\gameWar.pdb
+D:\projectnemone\project c#\gameWar\gameWar\obj\Debug\net8.0-windows\gameWar.Form1.resources
+D:\projectnemone\project c#\gameWar\gameWar\obj\Debug\net8.0-windows\gameWar.Properties.Resources.resources
+D:\projectnemone\project c#\gameWar\gameWar\obj\Debug\net8.0-windows\gameWar.csproj.GenerateResource.cache
+D:\projectnemone\project c#\gameWar\gameWar\obj\Debug\net8.0-windows\gameWar.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectnemone\project c#\gameWar\gameWar\obj\Debug\net8.0-windows\gameWar.AssemblyInfoInputs.cache
+D:\projectnemone\project c#\gameWar\gameWar\obj\Debug\net8.0-windows\gameWar.AssemblyInfo.cs
+D:\projectnemone\project c#\gameWar\gameWar\obj\Debug\net8.0-windows\gameWar.csproj.CoreCompileInputs.cache
+D:\projectnemone\project c#\gameWar\gameWar\obj\Debug\net8.0-windows\gameWar.dll
+D:\projectnemone\project c#\gameWar\gameWar\obj\Debug\net8.0-windows\refint\gameWar.dll
+D:\projectnemone\project c#\gameWar\gameWar\obj\Debug\net8.0-windows\gameWar.pdb
+D:\projectnemone\project c#\gameWar\gameWar\obj\Debug\net8.0-windows\gameWar.genruntimeconfig.cache
+D:\projectnemone\project c#\gameWar\gameWar\obj\Debug\net8.0-windows\ref\gameWar.dll
